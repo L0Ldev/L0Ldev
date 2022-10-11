@@ -7,7 +7,7 @@
 
 - 👨‍💻 currently making my own **Discord Bot (using disnake)**
 
-- 📫 if you have questions/want to speak **justL0L#3238**
+- 📫 if you have questions/want to speak **L0L#6738**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
