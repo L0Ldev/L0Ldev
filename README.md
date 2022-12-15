@@ -4,7 +4,7 @@
 
 - if you're wanted to communicate with me **L0L#6738** (discord)
 
-- [discord](https://discord.com)
+- <a href="https://discord.com" target="_blank" rel="noreferrer">Discord</a>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
