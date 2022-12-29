@@ -8,6 +8,6 @@
  
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,c,bash,vscode,neovim,discord,ps&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,c,bash,vscode,neovim,discord,ps)](https://skillicons.dev)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ldev&label=views&color=0ba20e&style=flat" alt="l0ldev" /> </p>
