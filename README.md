@@ -9,7 +9,7 @@
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,c,bash,vscode,neovim,discord,ps&perline=7)" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,c,bash,vscode,neovim,discord,ps&perline=7" />
   </a>
 </p>
 
