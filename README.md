@@ -7,7 +7,10 @@
 <h3> I like to make Discord bots, Websites, and some CLI stuff.
  
 <h3 align="left">🛠️ Languages and Tools</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,c,bash,vscode,neovim,discord,ps&perline=7)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,c,bash,vscode,neovim,discord,ps&perline=7)" />
+  </a>
+</p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0ldev&label=views&color=0ba20e&style=flat" alt="l0ldev" /> </p>
